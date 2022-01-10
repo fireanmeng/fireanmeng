@@ -4,5 +4,6 @@
 If you can read,then you can read.(wtf?)     
 A bad coder. 
 # development……    
-EndTear - A java obfuscator.    
-Sakura/ZeroHex - A minecraft:bedrock editon hacked client.
+Tsuiraku - An advanced java bytecode obfuscator.  
+MoonNight/Uranium - Minecraft hacked client for 2b2t.  
+StarNight - Minecraft:Bedrock edition hacked client.
